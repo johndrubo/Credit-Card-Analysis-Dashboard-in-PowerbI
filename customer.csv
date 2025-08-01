@@ -1,0 +1,20 @@
+Client_Num,Customer_Age,Gender,Dependent_Count,Education_Level,Marital_Status,state_cd,Zipcode,Car_Owner,House_Owner,Personal_loan,contact,Customer_Job,Income,Cust_Satisfaction_Score
+708082083,24,F,1,Uneducated,Single,FL,91750,no,yes,no,unknown,Businessman,202326,3
+708083283,62,F,0,Unknown,Married,NJ,91750,no,no,no,cellular,Selfemployeed,5225,2
+708084558,32,F,1,Unknown,Married,NJ,91750,yes,no,no,unknown,Selfemployeed,14235,2
+708085458,38,M,2,Uneducated,Single,NY,91750,no,no,no,cellular,Blue-collar,45683,1
+708086958,48,M,4,Graduate,Single,TX,91750,yes,yes,no,cellular,Businessman,59279,1
+708095133,33,F,1,High School,Single,NY,91750,no,yes,no,cellular,Selfemployeed,14254,3
+708098133,34,F,3,Graduate,Single,CA,91750,yes,no,no,telephone,Selfemployeed,14975,2
+708099183,34,F,2,Uneducated,Single,CA,91750,no,no,no,cellular,Retirees,31982,2
+708100533,48,M,2,High School,Married,NJ,91750,yes,no,no,telephone,Businessman,86668,2
+708103608,53,F,1,Graduate,Married,NJ,91750,yes,yes,no,cellular,Businessman,223196,1
+708104658,31,F,0,Post-Graduate,Single,CA,91750,no,yes,no,telephone,Businessman,33625,2
+708108333,34,F,4,Graduate,Single,NY,91750,no,no,no,cellular,Selfemployeed,14975,3
+708112008,51,F,2,Graduate,Single,NJ,91750,yes,yes,no,cellular,Selfemployeed,14975,2
+708113208,36,M,1,High School,Single,NJ,91750,yes,no,no,telephone,White-collar,59416,3
+708117933,49,F,4,Graduate,Married,CA,91750,no,yes,no,unknown,Retirees,28122,1
+708119658,53,F,2,Graduate,Single,FL,91750,yes,no,no,cellular,Govt,29021,1
+708121908,49,F,1,Graduate,Married,TX,91750,no,no,no,unknown,Selfemployeed,20632,3
+708123033,47,F,5,Graduate,Married,FL,91750,no,no,no,cellular,Businessman,172101,2
+708125733,43,F,4,Graduate,Single,FL,91750,no,no,no,cellular,Retirees,57168,2
