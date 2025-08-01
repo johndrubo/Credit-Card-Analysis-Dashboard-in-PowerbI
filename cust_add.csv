@@ -1,0 +1,20 @@
+Client_Num,Customer_Age,Gender,Dependent_Count,Education_Level,Marital_Status,state_cd,Zipcode,Car_Owner,House_Owner,Personal_loan,contact,Customer_Job,Income,Cust_Satisfaction_Score
+963607849,42,F,3,Uneducated,Married,CA,91750,no,no,yes,cellular,Govt,30574,1
+932954954,62,F,0,High School,Unknown,NY,91750,yes,no,no,cellular,Selfemployeed,57679,2
+961650885,47,F,3,Doctorate,Married,NJ,91750,no,no,no,unknown,Blue-collar,152263,1
+917695309,49,M,5,Graduate,Married,TX,91750,no,no,no,cellular,Businessman,43653,4
+957309271,53,F,3,Graduate,Married,NY,91750,no,no,no,cellular,Selfemployeed,47883,2
+967838008,47,F,4,Post-Graduate,Single,TX,91750,no,yes,no,cellular,Selfemployeed,52038,1
+953057861,42,F,4,High School,Married,CA,91750,yes,no,no,cellular,White-collar,75239,3
+945043270,40,F,4,Graduate,Married,FL,91750,no,no,no,unknown,Businessman,32035,5
+947028265,45,F,3,Graduate,Married,TX,91750,yes,yes,no,cellular,Retirees,40270,3
+949911663,54,F,3,Uneducated,Married,CA,91750,no,no,no,cellular,Businessman,55396,4
+943996401,51,F,1,Doctorate,Married,NV,91750,no,yes,no,unknown,Selfemployeed,194975,5
+929315398,31,M,1,Graduate,Single,CA,91750,no,no,no,telephone,Selfemployeed,45468,5
+943593234,37,M,3,Graduate,Married,FL,91750,no,yes,no,cellular,Businessman,107421,5
+934327500,60,F,1,Graduate,Single,NY,91750,yes,no,no,cellular,Selfemployeed,38459,4
+911454729,46,F,4,Graduate,Single,CA,91750,yes,no,no,cellular,Businessman,55057,4
+935287245,42,M,4,Graduate,Single,TX,91750,no,no,no,cellular,Govt,58212,5
+961848959,54,F,1,High School,Single,CA,91750,yes,yes,no,cellular,Selfemployeed,26354,4
+947702871,34,M,3,High School,Married,MN,91750,no,no,no,cellular,Blue-collar,70156,5
+922362219,49,F,4,Unknown,Single,TX,91750,no,yes,no,cellular,Govt,30752,5
